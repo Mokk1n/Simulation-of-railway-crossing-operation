@@ -1,13 +1,6 @@
 # Simulation-of-railway-crossing-operation
 
-The task is to create a signaling control system at railroad crossings using smart sensors and design patterns to improve safety on railways.
-The stages of solving the task include:
-1) Analysis of railway safety needs and requirements, as well as analysis of existing signaling systems at railroad crossings.
-2) Designing the system, namely developing the system architecture, including classes of smart sensors, their interconnections, and interaction with other system components.
-3) Developing sensor classes, namely creating software code to implement sensor classes that will collect data on the status of the crossing, sensors, and the environment.
-4)Implementation of design patterns to improve the efficiency and flexibility of the system.
-5) Conducting tests required for traffic safety, namely checking the performance and reliability of the developed system.
-6)Improvement of the system based on the test results, as well as ensuring further support and updating of the system if necessary.
+The task is to create a signaling control system at railroad crossings using smart sensors and design patterns to improve safety on railways. The stages of solving the task include: Analysis of railway safety needs and requirements, as well as analysis of existing signaling systems at railroad crossings. Designing the system, namely developing the system architecture, including classes of smart sensors, their interconnections, and interaction with other system components. Developing sensor classes, namely creating software code to implement sensor classes that will collect data on the status of the crossing, sensors, and the environment. Implementation of design patterns to improve the efficiency and flexibility of the system. Conducting tests required for traffic safety, namely checking the performance and reliability of the developed system. Improvement of the system based on the test results, as well as ensuring further support and updating of the system if necessary.
 
 # Description of instructions for users
 
